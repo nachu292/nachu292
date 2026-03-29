@@ -33,14 +33,8 @@ I'm a passionate **student developer** diving deep into Python, Go, and the fasc
 
 ### AI & ML Tools
 - **LLMs**: OpenAI API, LangChain, Hugging Face
-- **AI Assistants**: ChatGPT, Claude, GitHub Copilot
-- **Libraries**: TensorFlow, PyTorch, scikit-learn
-
-### Other Skills
-- Version Control (Git & GitHub)
-- RESTful APIs
-- Database fundamentals
-- Problem-solving & algorithms
+- **AI Assistants**: ChatGPT, Claude, gemini cli , opencode and more 
+- **Libraries**: pandas, numpy, matplotlib , tkiter
 
 ---
 
@@ -66,17 +60,6 @@ I leverage **AI tools** not as shortcuts, but as **learning accelerators**:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachu292&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nachu292&layout=compact&theme=radical)
-
-</div>
-
----
 
 ## 🎯 Featured Projects
 
@@ -97,10 +80,6 @@ I'm always reading—whether it's code, documentation, or technical books. Some 
 ## 🤝 Let's Connect & Learn Together
 
 - 📸 Instagram: [@sharrwa_naand](https://www.instagram.com/sharrwa_naand/?hl=en)
-- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [your-portfolio.com](https://yourportfolio.com)
-
 ---
 
 ## 💭 Philosophy
