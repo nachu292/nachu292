@@ -33,7 +33,7 @@ I'm a passionate **student developer** diving deep into Python, Go, and the fasc
 
 ### AI & ML Tools
 - **LLMs**: OpenAI API, LangChain, Hugging Face
-- **AI Assistants**: ChatGPT, Claude, gemini cli , opencode and more 
+- **AI Assistants**: ChatGPT, Claude,  opencode and more 
 - **Libraries**: pandas, numpy, matplotlib , tkiter
 
 ---
